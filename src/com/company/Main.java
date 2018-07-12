@@ -6,5 +6,6 @@ public class Main {
 	// write your code here
     System.out.println("this is first statement");
     System.out.println("this is second statement");
+    System.out.println("this is third statement");
     }
 }
